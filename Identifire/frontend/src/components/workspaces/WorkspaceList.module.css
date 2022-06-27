@@ -1,0 +1,23 @@
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.createButtonContainer {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.loginText {
+    margin-bottom: 8px;
+    padding: 0 8px;
+    text-align: center;
+}
+
+.placeholderImage {
+    height: 300px;
+}

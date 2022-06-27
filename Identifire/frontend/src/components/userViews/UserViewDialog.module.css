@@ -1,0 +1,21 @@
+.dialogContent {
+    overflow: hidden;
+}
+
+.cancelButton {
+    border: 1px solid #ff7968;
+    color:  #ff7968;
+}
+
+.cancelButton:hover {
+    background-color: #ffede2;
+}
+
+.submitButton {
+    background-color: #ff7968;
+    color: white;
+}
+
+.submitButton:hover {
+    background-color: #ff9f68;
+}

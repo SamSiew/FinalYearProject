@@ -1,0 +1,17 @@
+.cancelButton {
+    border: 1px solid #fa2206;
+    color:  #fa2206;
+}
+
+.cancelButton:hover {
+    background-color: #ffede2;
+}
+
+.confirmDeleteButton {
+    background-color: #fa2206;
+    color: white;
+}
+
+.confirmDeleteButton:hover {
+    background-color: #fa6e5c;
+}

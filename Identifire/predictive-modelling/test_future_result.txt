@@ -1,0 +1,7 @@
+[{'Year': 2020, 'Month': 10, 'Day': 12, 'Max_Temp': 304.41, 'Humidity': 52, 'Wind_Speed': 8.964, 'Rainfall': 0},
+{'Year': 2020, 'Month': 10, 'Day': 13, 'Max_Temp': 299.16, 'Humidity': 33, 'Wind_Speed': 19.584000000000003, 'Rainfall': 0},
+{'Year': 2020, 'Month': 10, 'Day': 14, 'Max_Temp': 299.07, 'Humidity': 33, 'Wind_Speed': 8.496, 'Rainfall': 0},
+{'Year': 2020, 'Month': 10, 'Day': 15, 'Max_Temp': 300.4, 'Humidity': 41, 'Wind_Speed': 11.304, 'Rainfall': 0},
+{'Year': 2020, 'Month': 10, 'Day': 16, 'Max_Temp': 303.31, 'Humidity': 58, 'Wind_Speed': 7.452, 'Rainfall': 0},
+{'Year': 2020, 'Month': 10, 'Day': 17, 'Max_Temp': 295.21, 'Humidity': 40, 'Wind_Speed': 14.076, 'Rainfall': 0}]
+

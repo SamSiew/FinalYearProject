@@ -1,0 +1,20 @@
+{
+  "name": "Identifire",
+  "version": "1.0.0",
+  "description": "The code for the Identifire project (FIT3161/FIT3162)",
+  "main": "index.js",
+  "scripts": {
+    "debug:backend": "cd backend && npm run start:local"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-kap-uni/Identifire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-kap-uni/Identifire/issues"
+  },
+  "homepage": "https://github.com/Jordan-kap-uni/Identifire#readme"
+}

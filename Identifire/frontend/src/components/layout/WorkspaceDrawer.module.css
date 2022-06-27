@@ -1,0 +1,92 @@
+.drawerContainer {
+    width: 300px;
+    margin-right: 16px;
+}
+
+.drawerContainerClosed {
+    width: 32px;
+}
+
+.drawer, .paper {
+    width: 300px;
+    top: calc(64px + 8px);
+    border: none;
+}
+
+.paper {
+    box-shadow: 2px 0px 4px -1px rgba(0,0,0,0.2), 4px 0px 5px 0px rgba(0,0,0,0.2);
+    height: calc(100vh - 64px - 8px);
+    overflow-x: hidden;
+}
+
+.drawerHeader {
+    background-color: #ff7968;
+    color: white;
+    height: 40px;
+    text-align: center;
+    position: relative;
+}
+
+.drawerHeader > h6 {
+    font-size: 1.05rem;
+    height: 40px;
+    line-height: 40px;
+}
+
+.closeIcon {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    color: white;
+}
+
+.closeIcon:hover {
+    background-color: white;
+    color: #ff7968;
+}
+
+.openIconContainer {
+    position: fixed;
+    top: calc(64px + 8px);
+    left: 0px;
+    height: calc(100vh - 64px - 8px);
+    background-color: #ff7968;
+    width: 32px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.openIconTextContainer {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.openIconText {
+    transform: rotate(-90deg);
+    color: white;
+    letter-spacing: 0.75em;
+}
+
+.openIconButton {
+    color: white;
+}
+
+.openIconButton:hover {
+    background-color: white;
+    color: #ff7968;
+}
+
+.hideOpenIconContainer {
+    visibility: hidden;
+}
+
+.drawerBody {
+    height: calc(100% - 40px);
+    background-color: #FFFDF3;
+}
+
+

@@ -1,0 +1,25 @@
+.tab {
+    color: white;
+    margin-right: 16px;
+    border-radius: 10px;
+    min-height: 48px;
+    height: 48px;
+}
+
+.wrapper {
+    flex-direction: row;
+    align-items: center;
+}
+
+.viewName {
+    flex-grow: 1;
+}
+
+.optionsButton {
+    order: 2;
+    color: white;
+}
+
+.deleteOption {
+    color: red;
+}

@@ -1,0 +1,30 @@
+.mapContainer {
+    height: 100%;
+    width: 100%;
+}
+
+.mapLoading {
+  height: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.locationPolygon {
+  /* fill: #fcba03;
+  stroke:#fcba03; */
+  fill: #fc6203;
+  stroke:#fc6203;
+  
+}
+
+.locationPolygon:hover {
+  fill: #ff9655;
+  stroke:#ff9655;
+}
+
+.locationPolygonSelected {
+  fill-opacity: 1;
+}

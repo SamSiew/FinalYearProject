@@ -1,0 +1,45 @@
+.header {
+    height: 64px;
+    position: sticky;
+    top: 0;
+    right: 0;
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #FFFDF3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    margin-bottom: 8px;
+    box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2), 0px 4px 5px 0px rgba(0,0,0,0.14), 0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.brandContainer {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 32px;
+}
+
+.productName {
+    font-style: italic;
+    font-weight: 500;
+    color: #ff7968;
+    margin-left: 8px;
+}
+
+.logo {
+    height: 60%;
+}
+
+.headerNav {
+    display: flex;
+    align-items: center;
+}
+
+.headerLink {
+    font-style: italic;
+    color: #ff7968;
+    cursor: pointer;
+    margin-right: 16px;
+}
+

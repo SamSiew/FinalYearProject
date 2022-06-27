@@ -1,0 +1,8 @@
+.workspaceButton {
+    background-color: #ff7968;
+    color: white;
+}
+
+.workspaceButton:hover {
+    background-color: #ff9f68;
+}

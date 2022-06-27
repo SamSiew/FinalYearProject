@@ -1,0 +1,23 @@
+.authContainer {
+    margin-right: 16px;
+    margin-left: 32px;
+}
+
+.loginButton {
+    background-color: #ff7968;
+    color: white;
+    margin-left: 16px;
+}
+
+.loginButton:hover {
+    background-color: #ff9f68;
+}
+
+.logoutButton {
+    border: 1px solid #ff7968;
+    color:  #ff7968;
+}
+
+.logoutButton:hover {
+    background-color: #ffede2;
+}
